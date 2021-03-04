@@ -1,0 +1,14 @@
+basicRestAssurance/BasicTest.java
+ basicRestAssurance.BasicTest
+utilsJson/JsonHelper.java
+ utilsJson.JsonHelper
+runner/Runner.java
+ runner.Runner
+helpers/GenerateLocalReport.java
+ helpers.GenerateLocalReport
+basicRestAssurance/CRUDProjectTest.java
+ basicRestAssurance.CRUDProjectTest
+runner/MyStepdefs.java
+ runner.MyStepdefs
+runner/ItemCrud.java
+ runner.ItemCrud
